@@ -1,0 +1,12 @@
+Un archivo que tiene varias líneas...
+Por ejemplo: 1 + 1 = 2
+O el valor de pi = 3.141596
+¿Es el fin?
+No
+...
+Bueno si
+***
+Esto es la nueva linea y debe añadirse
+Siempre debe ser una cadena
+¡Ojo!
+Para Python pi=3.141592653589793
